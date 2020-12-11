@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-      // load the overlay
+          // load the overlay
       $('#myModal').modal({show:true});
       
       var year = 1000*60*60*24*365;
